@@ -9,9 +9,9 @@
             <link>https://is09061214.github.io/podcast-feed</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 01:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 01:27:53 GMT</lastBuildDate>
         <atom:link href="https://is09061214.github.io/podcast-feed/feeds/podcast.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 01:25:36 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 01:27:53 GMT</pubDate>
         <copyright><![CDATA[© 2026 ITARU]]></copyright>
         <language><![CDATA[ja]]></language>
         <managingEditor><![CDATA[is@imusellc.com (ITARU)]]></managingEditor>
@@ -32,7 +32,7 @@
             <description><![CDATA[test podcast episode のポッドキャストエピソードです。]]></description>
             <link>https://is09061214.github.io/podcast-feed/audio/test-podcast-episode.mp3</link>
             <guid isPermaLink="false">test-podcast-episode.mp3</guid>
-            <pubDate>Fri, 15 May 2026 01:25:36 GMT</pubDate>
+            <pubDate>Fri, 15 May 2026 01:27:53 GMT</pubDate>
             <enclosure url="https://is09061214.github.io/podcast-feed/audio/test-podcast-episode.mp3" length="242145" type="audio/mpeg"/>
             <itunes:author>ITARU</itunes:author>
             <itunes:summary>test podcast episode のポッドキャストエピソードです。</itunes:summary>
